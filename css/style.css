@@ -1,0 +1,20 @@
+/* This is the CSS Style for my project webpage.*/
+
+/* This line makes all the h2 headings in red text and sets the font to Arial with
+a backup of Times New Roman. It centers it in the page and underlines it*/
+h2 {
+	color: red;
+	text-align: center;
+	font-family: "Arial","Times New Roman";
+	text-decoration: underline;
+}
+
+/* This line makes all the h3 headings in blue text*/
+h3 {
+	color: blue;
+}
+
+/* This line makes all the HTML classes with name lesson have the text aligned in the center of the page */
+.lesson {
+	text-align: center;
+}
